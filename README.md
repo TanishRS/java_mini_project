@@ -12,21 +12,6 @@ A desktop music library app built in **Java** with a **Swing GUI**. It manages s
 
 ---
 
-## 📸 Screenshots
-
-| Songs tab | Playlist report |
-|---|---|
-| ![Songs tab](screenshots/songs.png) | ![Playlists tab](screenshots/playlists.png) |
-
-| Player (queue + history) | Artists & Albums (A–Z) |
-|---|---|
-| ![Player tab](screenshots/player.png) | ![Artists tab](screenshots/artists.png) |
-
-| Search by artist | Validation error popup |
-|---|---|
-| ![Search](screenshots/search.png) | ![Error popup](screenshots/error.png) |
-
----
 
 ## ✨ Features
 
