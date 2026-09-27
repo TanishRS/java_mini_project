@@ -176,3 +176,4 @@ Any invalid action shows a clear error popup instead of crashing the app.
 | Tanish Ramesh Suvarna | [@TanishRS](https://github.com/TanishRS) |
 | Aareen Dakway | [@Aareen80085](https://github.com/Aareen80085) |
 | Shobit Saroj | [@sarojshobit2007-web](https://github.com/sarojshobit2007-web) |
+| Sanika Kangane | [@sarojshobit2007-web](https://github.com/sanikakangane) |
